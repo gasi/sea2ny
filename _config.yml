@@ -1,13 +1,16 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
-email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
+title: SEA2NY
+subtitle: "Daniel’s Cross-Country Motorcycle Trip from Seattle, WA, to Brooklyn, NY."
+email: daniel@gasienica.ch
+description: "Daniel’s Cross-Country Motorcycle Trip from Seattle, WA, to Brooklyn, NY."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
-instagram_username: "rowanoulton"
+url: "http://www.sea2ny.com"
+twitter_username: "gasi"
+github_username:  "gasi"
+instagram_username: "gasi"
+
+gems:
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
@@ -19,5 +22,3 @@ paginate: 5
 # Sass
 sass:
     style: :compressed
-
-gems: [jekyll-paginate]
