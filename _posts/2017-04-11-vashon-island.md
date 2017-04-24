@@ -17,7 +17,7 @@ are some impressions from our ride:
 <div class="post-image">
   <img src="/img/DG-2017-04-11-09-03-44.jpg"/>
   <p class="post-image-caption">
-    Waiting for the ferry to Vashon Island.
+    Waiting for the ferry to Vashon Island
   </p>
 </div>
 <div class="post-image">
@@ -29,7 +29,7 @@ are some impressions from our ride:
 <div class="post-image">
   <img src="/img/DG-2017-04-11-09-46-32.jpg"/>
   <p class="post-image-caption">
-    A quick pit stop before we ride.
+    A quick pit stop before we ride
   </p>
 </div>
 <div class="post-image">
@@ -50,7 +50,7 @@ are some impressions from our ride:
 <div class="post-image">
   <img src="/img/DG-2017-04-11-11-09-18.jpg"/>
   <p class="post-image-caption">
-    Ray’s ride and my ride.
+    Ray’s ride and my ride
   </p>
 </div>
 <!-- Figure out a better layout for tall image: -->
@@ -62,7 +62,7 @@ are some impressions from our ride:
 <div class="post-image">
   <img src="/img/DG-2017-04-11-11-47-34.jpg"/>
   <p class="post-image-caption">
-    Ray discovered this airstrip lined with blossoming cherry trees.
+    Ray discovered this airstrip lined with blossoming cherry trees
   </p>
 </div>
 <div class="post-image">
