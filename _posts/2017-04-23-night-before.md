@@ -50,7 +50,7 @@ couch/shower to offer.
   <img src="/img/DG-2017-04-20-19-54-25.jpg"/>
   <p class="post-image-caption">
     <span class="post-image-caption-left">
-      The ‘plan’ according to Rachel.
+      The ‘plan’ according to Rachel
     </span>
     <span class="post-image-caption-right">
       SEA2NY
