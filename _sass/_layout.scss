@@ -53,6 +53,10 @@ header {
     a:hover {
         color: $text-colour;
     }
+
+    .logo {
+        margin-bottom: 5px
+    }
 }
 
 @media only screen and (max-width : 480px) {
@@ -60,15 +64,6 @@ header {
         padding-top: 30px;
         margin: 0 0 20px;
     }
-}
-
-h1 {
-    font-family: $title-font;
-    font-size: $regular-text-size;
-    font-weight: bold;
-    margin: 0 0 5px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
 }
 
 h2 {
