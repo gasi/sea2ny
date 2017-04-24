@@ -13,6 +13,7 @@
     .about-wrap {
         display: table-cell;
         vertical-align: middle;
+        color: $inverse-text-colour;
     }
 
     .about-avatar {
@@ -35,7 +36,7 @@
         font-weight: bold;
         text-transform: uppercase;
         padding-bottom: 5px;
-        border-bottom: 1px solid rgba(229, 229, 229, 0.5);
+        border-bottom: 1px solid rgba($inverse-text-colour, 0.5);
         margin: 0 0 10px;
         letter-spacing: 1px;
     }
@@ -62,8 +63,8 @@
             color: $link-colour-over;
         }
 
-        img { 
-            margin-right: 5px; 
+        img {
+            margin-right: 5px;
             display: inline-block;
             vertical-align: middle;
         }

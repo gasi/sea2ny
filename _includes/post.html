@@ -1,7 +1,14 @@
 <section class="post">
     <div class="post-header post-header--dw">
-        <a href="{{ site.baseurl }}{{ include.post.url }}"><h3 class="post-header-title">{{ include.post.title }}</h3></a>
-        <h4 class="post-header-date">{{ include.post.date | date: "%B %e, %Y" }}</h4>
+        <a href="{{ site.baseurl }}{{ include.post.url }}">
+            <h3 class="post-header-title">{{ include.post.title }}</h3>
+        </a>
+        <h4 class="post-header-date">
+            {{ include.post.date | date: "%B %e, %Y" }}
+            {% if include.post.odometer %}
+                / {{ include.post.odometer}}mi (+{{ include.post.odometer | minus: 9770}}mi)
+            {% endif %}
+        </h4>
     </div>
     <div class="post-body">
         {{ include.content }}
