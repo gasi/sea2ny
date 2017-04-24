@@ -40,10 +40,10 @@ For me, this journey is about taking a break from my professional life as a
 software engineer for the past 7 years, to discover the gems of this beautiful
 country, and to connect with people, whether from my past or to meet new faces.
 
-Please join me on this adventure! You can reach me via <daniel@gasienica.ch> if
-you have any suggestions for places to visit or live along the route and would
-like to meet up and/or have a couch/shower to offer.
-
+Please join me on this adventure! You can reach me via <daniel@gasienica.ch> or
+[@gasi](https://twitter.com/gasi) if you have any suggestions for places to
+visit or live along the route and would like to meet up and/or have a
+couch/shower to offer.
 
 <div class="post-image post-image--split">
   <img src="/img/DG-2017-03-08-14-24-00.jpg"/>
