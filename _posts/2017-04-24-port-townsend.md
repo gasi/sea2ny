@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Day One: Seattle to Port Townsend"
+title:      "Day 1: Seattle to Port Townsend"
 date:       2017-04-24 23:04:00
 author:     "Daniel Gąsienica"
 location: 	"Port Townsend, WA"
