@@ -123,13 +123,18 @@ buckles under the tent pole compartment (bummer!):
   <img src="/img/DG-2017-04-24-17-32-52.jpg"/>
 </div>
 
-After a beautiful ride in the sunshine, I arrived in Port Townsend around 7pm;
-my first stop on this journey. It was just in time for the [Golden
-Hour](https://en.wikipedia.org/wiki/Golden_hour_(photography)) and decided to
+Originally, I planned to ride to Port Angeles, but luckily I hadn’t booked any
+accommodations because two people on the ferry recommended I go to the much more
+picturesque Port Townsend instead. After a beautiful ride in the sunshine, I
+arrived in Port Townsend around 7pm; my first stop on this journey. It was just
+in time for the [Golden
+Hour](https://en.wikipedia.org/wiki/Golden_hour_(photography)) and I decided to
 stay in a motel to catch up on some much needed sleep so I can feel fresh for
-exploring the Olympic Peninsula tomorrow.
+exploring the Olympic Peninsula tomorrow. But before I did, I spent a bit of
+time taking some photos around the town and also fly my drone by the waterfront.
 
 Suspicious seagull acting suspicious:
+
 <div class="post-image">
   <img src="/img/DG-2017-04-24-19-07-47-2.jpg"/>
 </div>
