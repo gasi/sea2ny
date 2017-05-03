@@ -7,13 +7,15 @@ location: 	"Port Townsend, WA"
 odometer:   9823
 ---
 
-<iframe
-  width="885"
-  height="500"
-  src="https://www.youtube.com/embed/PE3YOzx5MMI"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<div class="post-video">
+  <iframe
+    width="885"
+    height="500"
+    src="https://www.youtube.com/embed/PE3YOzx5MMI"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 Last night, I was so excited that I only slept five hours. This combined with
 my need to pick up a few more items before heading out meant I wanted to keep
