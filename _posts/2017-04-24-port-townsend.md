@@ -4,7 +4,7 @@ title:      "Day 1: Seattle, WA – Port Townsend, WA"
 date:       2017-04-24 23:04:00
 author:     "Daniel Gąsienica"
 location: 	"Port Townsend, WA"
-odometer:   9821
+odometer:   9823
 ---
 
 <iframe
