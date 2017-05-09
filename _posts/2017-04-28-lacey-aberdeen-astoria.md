@@ -3,7 +3,7 @@ layout:     post
 title:      "Day 5: Lacey, WA – Aberdeen, WA – Astoria, OR "
 date:       2017-04-28 23:59:59
 author:     "Daniel Gąsienica"
-location: 	"Astoria, OR"
+location:   "Astoria, OR"
 odometer:   10340
 ---
 

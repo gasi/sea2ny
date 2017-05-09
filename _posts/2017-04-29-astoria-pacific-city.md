@@ -3,7 +3,7 @@ layout:     post
 title:      "Day 6: Astoria, OR – Pacific City, OR"
 date:       2017-04-29 23:59:59
 author:     "Daniel Gąsienica"
-location: 	"Pacific City, OR"
+location:   "Pacific City, OR"
 odometer:   10534
 ---
 
