@@ -17,35 +17,19 @@ to spending time with her, recovering from my trip, and reflecting on all the
 memories I have made.
 
 <div class="post-image">
-  <img
-    src="https://c1.staticflickr.com/5/4218/35787510036_bb2c107dc7_b.jpg"
-    width="885"
-    height="542"
-  />
+  <img src="https://c1.staticflickr.com/5/4218/35787510036_bb2c107dc7_b.jpg"/>
 </div>
 
 <div class="post-image">
-  <img
-    src="https://c1.staticflickr.com/5/4217/35787507786_c24f31fb01_b.jpg"
-    width="885"
-    height="665"
-  />
+  <img src="https://c1.staticflickr.com/5/4217/35787507786_c24f31fb01_b.jpg"/>
 </div>
 
 <div class="post-image">
-  <img
-    src="https://c1.staticflickr.com/5/4241/35787816996_5a3616f6b8_b.jpg"
-    width="885"
-    height="590"
-  />
+  <img src="https://c1.staticflickr.com/5/4241/35787816996_5a3616f6b8_b.jpg"/>
 </div>
 
 <div class="post-image">
-  <img
-    src="https://c1.staticflickr.com/5/4215/35787819336_f3fd03e4b8_b.jpg"
-    width="885"
-    height="633"
-  />
+  <img src="https://c1.staticflickr.com/5/4215/35787819336_f3fd03e4b8_b.jpg"/>
   <p class="post-image-caption">
     ‘Tail of the Dragon’, US–129, TN (June 16, 2017)
   </p>
